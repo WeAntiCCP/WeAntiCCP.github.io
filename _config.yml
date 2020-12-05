@@ -3,3 +3,6 @@ title: Your awesome title
 email: your-email@domain.com
 name: WeAreAntiCCP
 description: Freedom, by its nature, should be chosen.
+url: "http://example.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
